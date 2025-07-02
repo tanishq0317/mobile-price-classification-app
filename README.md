@@ -8,7 +8,7 @@ This Streamlit app predicts the **mobile price range** based on device specifica
 - Real-time prediction of price range (0 to 3).
 - Trained using the [Mobile Price Classification dataset](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification).
 
-## 🧠 Model Info
+## Info
 
 Model: `RandomForestClassifier`  
 Target: `price_range` (0=low, 1=medium, 2=high, 3=very high)
